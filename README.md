@@ -1,7 +1,7 @@
 <h1 align="center">💼 Portfólio Profissional - Henrique Batista</h1>
 
 <p align="center">
-  <img src="[img/avatar.jpg](https://avatars.githubusercontent.com/u/85231417?v=4)" alt="Henrique Batista" width="120" style="border-radius: 9999px;"/>
+  <img src="https://avatars.githubusercontent.com/u/85231417?v=4" alt="Henrique Batista" width="120" style="border-radius: 9999px;"/>
 </p>
 
 <p align="center">
